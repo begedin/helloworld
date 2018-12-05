@@ -1,0 +1,12 @@
+<section class="phx-hero">
+  <h1>Welcome to the interview!</h1>
+</section>
+
+<section class="row">
+  <article class="column">
+    <h2>UI</h2>
+  </article>
+  <article class="column">
+    <h2>Debug</h2>
+  </article>
+</section>
